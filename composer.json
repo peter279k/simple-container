@@ -1,0 +1,31 @@
+{
+    "name": "lee/simple-container",
+    "description": "PHP library that reflect the specific classes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "peter279k",
+            "email": "peter279k@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0",
+        "php-coveralls/php-coveralls": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lee\\Container\\": "./src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Lee\\Container\\Tests\\": "./tests"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
