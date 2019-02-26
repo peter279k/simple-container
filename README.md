@@ -73,3 +73,11 @@ $profile = $container->get(Profile::class, ['userName' => 'Peter']);
 
 echo $profile->getUserName(); // Peter
 ```
+
+# References
+
+This simple-container is about implementing this [post](https://medium.com/tech-tajawal/dependency-injection-di-container-in-php-a7e5d309ccc6).
+
+However, this post we refer is incorrect on some approaches.
+
+We decide to implement this PHP package to complete the correct container example.
