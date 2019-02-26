@@ -5,11 +5,11 @@
 
 ## Introduction
 
-This is abou the simple container to help developers to understand how the Reflection works.
+This is about the simple container to help developers to understand how the Reflection works.
 
 ## Usage
 
-Firstly, you have to specify a clas that you want to inject.
+Firstly, you have to specify a class that you want to inject.
 
 For example, we assume that you want to inject following `Profile` class:
 
