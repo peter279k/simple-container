@@ -1,5 +1,8 @@
 # simple-container
 
+[![Build Status](https://travis-ci.org/peter279k/simple-container.svg?branch=master)](https://travis-ci.org/peter279k/simple-container)
+[![Coverage Status](https://coveralls.io/repos/github/peter279k/simple-container/badge.svg?branch=master)](https://coveralls.io/github/peter279k/simple-container?branch=master)
+
 ## Introduction
 
 This is abou the simple container to help developers to understand how the Reflection works.
